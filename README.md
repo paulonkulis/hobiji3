@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>Projekts - mani hobiji</title>
+        <title> mani hobiji</title>
         <meta charset="utf-8">
         
         <style>
